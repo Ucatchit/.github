@@ -1,2 +1,1 @@
-# .github
-ucatchit.com
+# ucatchit.com
